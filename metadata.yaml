@@ -1,0 +1,14 @@
+title: COVID-19 data for Berlin, Germany
+description: The numbers for Berlin, Germany. Collected from Berlin's Open Data platform
+license: CC-BY
+license_url: http://creativecommons.org/licenses/by/3.0/de/
+source: Landesamt für Gesundheit und Soziales Berlin (LAGeSo)
+databases:
+  covid19-berlin:
+    tables:
+      daily_numbers:
+        source_url: https://daten.berlin.de/datensaetze/covid-19-berlin-verteilung-den-bezirken-gesamt%C3%BCbersicht
+        title: COVID-19 in Berlin, Verteilung in den Bezirken - Gesamtübersicht
+      seven_day_incidence:
+        source_url: https://daten.berlin.de/datensaetze/covid-19-f%C3%A4lle-im-land-berlin-7tage-inzidenz-nach-altersgruppen-und-meldewochen-0
+        title: COVID-19 Fälle im Land Berlin, 7Tage-Inzidenz nach Altersgruppen und Meldewochen - Gesamtübersicht
