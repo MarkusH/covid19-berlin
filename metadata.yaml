@@ -1,8 +1,11 @@
-title: COVID-19 data for Berlin, Germany
+about: MarkusH/covid19-berlin 
+about_url: https://github.com/MarkusH/covid19-berlin
 description: The numbers for Berlin, Germany. Collected from Berlin's Open Data platform
 license: CC-BY
 license_url: http://creativecommons.org/licenses/by/3.0/de/
 source: Landesamt für Gesundheit und Soziales Berlin (LAGeSo)
+source_url: https://www.berlin.de/lageso/gesundheit/infektionsepidemiologie-infektionsschutz/corona/
+title: COVID-19 data for Berlin, Germany
 databases:
   covid19-berlin:
     tables:
