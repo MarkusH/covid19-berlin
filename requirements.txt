@@ -28,7 +28,7 @@ pyparsing==2.4.7
 python-baseconv==1.2.2
 python-dateutil==2.8.1
 python-multipart==0.0.5
-pytz==2020.4
+pytz==2020.5
 PyYAML==5.3.1
 regex==2020.11.13
 rfc3986==1.4.0
