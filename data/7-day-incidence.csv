@@ -1,464 +1,687 @@
-<!doctype html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de" lang="de">
-<head prefix="og: http://ogp.me/ns#">
-    <meta charset="UTF-8"/>
-    <title>Die Seite wurde nicht gefunden. - Berlin.de</title>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-
-            <link rel="stylesheet" href="//www.berlin.de/i9f/r1/bundle/default.css?1612987200" media="all">
-    <script src="//www.berlin.de/i9f/r1/bundle/jquery.min.js" crossorigin="anonymous"></script>
-    <script src="//www.berlin.de/i9f/r1/bundle/default.js?1612987200" id="bo-behavior-js"></script>
-    
-        <link rel="stylesheet" type="text/css" href="//www.berlin.de/i9f/v4/css/vendor.css?ts=1612975538"/>
-    
-<!-- theme switch begin -->
-    <link rel="stylesheet" type="text/css" href="//www.berlin.de/i9f/v4/css/bde-bootstrap.css?ts=1612975538"/>
-    <link rel="stylesheet" type="text/css" href="//www.berlin.de/i9f/v4/css/bde-index.css?ts=1612975538"/>
-    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"/>
-    <link rel="apple-touch-icon" sizes="180x180" href="//www.berlin.de/i9f/v4/css/images/misc/apple-touch-icon.png" type="image/png"/>
-<!-- theme switch end -->
-
-        <!-- "property" validiert nicht, nimm "name" -->
-            <meta name="og:image" content="http://www.berlin.de/i9f/images/facebook_default_icon_land.png" />
-    <meta name="og:image:secure_url" content="https://www.berlin.de/i9f/images/facebook_default_icon_land.png" />
-                <script src="//www.berlin.de/i9f/v4/js/bo-head.js?ts=1612975538"></script>
-        <script src="//www.berlin.de/i9f/v4/js/bo-info.js?ts=1612975538"></script>
-    
-
-
-
-
-    <meta name="dcterms.title" content="Entschuldigen Sie bitte den Fehler"/>
-
-    <link rel="canonical" href="https://www.berlin.de/lageso/gesundheit/infektionsepidemiologie-infektionsschutz/corona/tabelle-altersgruppen-gesamtuebersicht/"/>
-
-<!-- head - items - flexe -->
-<!-- /head - items - flexe -->
-<script>_ti.portal.statuscode="404";</script>
-
-</head>
-    <body class="locale_de bobde">
-
-<div class="skyscraper palm-hide hidden-phone">
-<!-- kommunal: beberlin -->
-</div>
-
-<!-- START: PAGEWRAPPER -->
-<div id="page-wrapper" class=" container-content  exception-page">
-    <div class="container-wrapper container-portal-header" style="display:none !important">
-        </div>
-    <!-- START: PORTALHEADER -->
-    <header id="header" class="kiekma">
-
-                <!-- Portal.view -->
-<div class="header__row-portalbrand">
-    <div class="logo">
-        <a href="https://www.berlin.de">
-            <img class="logo" title="Link führt zur Startseite von Berlin.de" alt="Bild zeigt: Berlin.de Logo" src="//www.berlin.de/i9f/r1//images/logo_berlin_m_srgb.svg" />
-        </a>
-    </div>
-</div>
-
-
-<!-- /Portal.view -->
-
-                <!-- Horizontal.view -->
-<div class="header__row-pageheader">
-
-        <div class="pageheader__logo without-logo">
-                            <p class="textlogo">
-                <a href="https://www.berlin.de/lageso/index.php" title="Link zu: Startseite von &#34;Landesamt für Gesundheit und Soziales&#34;"><span class="institution">Landesamt</span>
-                <span class="title">für Gesundheit und Soziales</span></a>            </p>
-            </div>
-            <nav class="pageheader__quicklinks" aria-label="Bereichsnavigation">
-        <ul>
-                                                </ul>
-    </nav>
-        <div class="pageheader__services">
-
-                
-                <div id="servicebuttonAccessibility" class="service-button-overlay js-service-button-overlay accessibility">
-                        <div class="service-button-overlay__button">
-                <button type="button" class="icon-button js-button-overlay-open" aria-haspopup="dialog">
-                    <i class="icon fas fa-universal-access" aria-hidden="true"></i>
-                    <span class="aural">Einstellungen zur Barrierefreiheit öffnen</span>
-                    <span class="text">Barrierefrei</span>
-                </button>
-            </div>
-                        <div class="service-button-overlay__overlay overlay js-overlay-container" aria-modal="true" role="dialog">
-                <div class="overlay__header">
-                    <h2 class="heading">Barrierefreiheit</h2>
-                    <button type="button" class="close-button js-button-overlay-close">
-                        <i class="fas fa-times" aria-hidden="true"></i>
-                        <span class="aural">Schließen: Barrierefreiheit</span>
-                    </button>
-                </div>
-                <div class="overlay__body">
-                    <div class="inner">
-
-                                                <h3>Einstellungen</h3>
-                        <ul class="wcag-linklist">
-                            <!-- Metalangselector.view -->
-<li>
-<a href="https://www.berlin.de/lageso/leichte-sprache/index.php" hreflang="de">    <img aria-hidden="true" src="//www.berlin.de/i9f/v4/css/images/misc/leichtesprache.svg"
-    alt="Symbol leichte Sprache" />
-    Leichte Sprache</a></li>
-<!-- /Metalangselector.view -->
-<!-- Metalangselector.view -->
-<li>
-<a href="https://www.berlin.de/lageso/gebaerdensprache/artikel.867440.php" hreflang="gsg">    <img aria-hidden="true" src="//www.berlin.de/i9f/v4/css/images/misc/dgs.svg"
-    alt="Symbol Gebärdensprache" /> 
-    Gebärdensprache</a></li>
-<!-- /Metalangselector.view -->
-                        </ul>
-                        
-                                                <h3>Wie barrierefrei ist diese Webseite?</h3>
-                        <p><a href="https://www.berlin.de/lageso/barrierefreiheitserklaerung.919967.php" >Digitale Barrierefreiheit</a></p>
-                        
-                                                <h3>Wen können Sie bei Anmerkungen oder Fragen zur digitalen Barrierefreiheit (Feedbackoption) kontaktieren?</h3>
-                        <p>
-                                                            Name: Stefan Trautmann<br />
-                                                                                        E-Mail: <a href="mailto:barrierefreiheit@lageso.berlin.de" >barrierefreiheit@lageso.berlin.de</a><br />
-                                                                                        Telefon: (030) 90229 1500                                                    </p>
-                        
-                        <h3>Wo gibt es zusätzliche Informationen zur Barrierefreiheit im Land Berlin?</h3>
-                        <p><a target="_blank" class="extern" href="https://www.berlin.de/moderne-verwaltung/barrierefreie-it/">Barrierefreie Informations- und Kommunikationstechnik (IKT)</a></p>
-
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        
-        
-                <div id="servicebuttonSearch" class="service-button-overlay js-service-button-overlay search fullwidth">
-                        <div class="service-button-overlay__button">
-                <button type="button" class="icon-button js-button-overlay-open" aria-haspopup="dialog">
-                    <i class="icon fa fa-search" aria-hidden="true"></i>
-                    <span class="text">Suche</span>
-                </button>
-            </div>
-                        <div class="service-button-overlay__overlay overlay js-overlay-container"  aria-modal="true" role="dialog">
-                <div class="overlay__header">
-                    <h2 class="heading"><span class="aural">Suche</span></h2>
-                    <button type="button" class="close-button js-button-overlay-close"><i class="fas fa-times" aria-hidden="true"></i><span class="aural">Menü schließen</span></button>
-                </div>
-                <div class="overlay__body">
-                    <div class="search-container">
-                        <form class="search-form institutionssuche" method="get" action="https://www.berlin.de/lageso/suche.php">
-    <label class="" for="searchFormInput_q" id="aural_institutionssuche">
-        Suche auf der Internetseite &#34;Landesamt für Gesundheit und Soziales&#34;    </label>
-    <div class="form-group " role="search">        
-        <input 
-            class="form-control" 
-            type="search" 
-            id="searchFormInput_q"
-            placeholder="Suchbegriff"
-            name="q" 
-            aria-labelledby="aural_institutionssuche"
-            maxlength="255"
-            title="Hier können Sie einen Text eingeben, um die Internetseite &#34;Landesamt für Gesundheit und Soziales&#34; zu durchsuchen"
-        />
-        <button type="submit" class="button">
-        <i class="fas fa-search" aria-hidden="true"></i> <span>Suchen</span>
-        </button>
-    </div>
-</form>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-                <div id="servicebuttonMenu" class="service-button-overlay js-service-button-overlay menu">
-                        <div class="service-button-overlay__button">
-                <button type="button" class="icon-button js-button-overlay-open" aria-haspopup="menu">
-                    <i class="icon fa fa-bars" aria-hidden="true"></i>
-                    <span class="text">Menü</span>
-                </button>
-            </div>
-            <div class="service-button-overlay__overlay overlay js-overlay-container" aria-modal="true" role="dialog">
-                <div class="overlay__header">
-                    <h2 class="heading">Hauptnavigation</h2>
-                    <button type="button" class="close-button js-button-overlay-close"><i class="fas fa-times" aria-hidden="true"></i><span class="aural">Menü schließen</span></button>
-                </div>
-                <div class="overlay__body">
-                    <nav id="navigation-primary" class="js-navigation-primary" aria-label="Hauptnavigation">
-                                                <div class="tree-wrapper js-navigation-tree-wrapper">
-                            <ul class="navigation-tree">
-    </ul>
-                        </div>
-                                                <!-- Meta.view -->
-
-        
-    <!-- Global Languagelist -->
-
-    
-    <!-- Metalinks (socialmedia, login, einfache Sprache, ...) -->
-        <div class="navigation-meta">
-        <h3 class="heading">Weiteres</h3>
-        <ul>
-            <li class="odd pos0"><a href="https://www.berlin.de/sen/ias/" >Senatsverwaltung</a></li><li class="even pos1"><a href="https://www.berlin.de/lageso/ueber-uns/artikel.61719.php" >Impressum</a></li><li class="odd pos2"><a href="https://twitter.com/LAGeSo_Berlin" class="ic-fa-twitter" target="_blank" title="Twitter (Öffnet in neuem Fenster) (Öffnet in neuem Fenster)">Twitter</a></li><li class="even pos3"><a href="https://www.instagram.com/lageso_berlin" class="ic-fa-instagram" target="_blank" title="instagram (Öffnet in neuem Fenster) (Öffnet in neuem Fenster)">instagram</a></li><!-- Metalangselector.view -->
-<li>
-<a href="https://www.berlin.de/lageso/leichte-sprache/index.php" title="Link zu einer anderen Sprache: Leichte Sprache" hreflang="de">    <img aria-hidden="true" src="//www.berlin.de/i9f/v4/css/images/misc/leichtesprache.svg"
-    alt="Symbol leichte Sprache" />
-    Leichte Sprache</a></li>
-<!-- /Metalangselector.view -->
-<!-- Metalangselector.view -->
-<li>
-<a href="https://www.berlin.de/lageso/gebaerdensprache/artikel.867440.php" title="Link zu einer anderen Sprache: Gebärdensprache" hreflang="gsg">    <img aria-hidden="true" src="//www.berlin.de/i9f/v4/css/images/misc/dgs.svg"
-    alt="Symbol Gebärdensprache" /> 
-    Gebärdensprache</a></li>
-<!-- /Metalangselector.view -->
-        </ul>
-    </div>
-    
-    <!-- Login -->
-        
-<!-- /Meta.view -->
-                    </nav>
-                </div>
-            </div>
-        </div>
-
-        
-    </div>
-
-</div><!-- /#pageheader -->
-
-
-
-<!-- /Horizontal.view -->
-
-    </header>
-    <!-- END: PORTALHEADER -->
-
-    <!-- START: CONTENTWRAPPERGRID -->
-    <div role="main" id="layout-grid" class="template-exception exception-page">
-    
-        <div id="layout-grid__area--contentheader">
-        <div id="content-header">
-                                                                                            </div>
-    </div>
-
-    <div id="layout-grid__area--leftcolumn">
-    </div>
-    <div id="layout-grid__area--marginal">
-    </div>
-
-    <div id="layout-grid__area--maincontent">
-        <div class="container-wrapper">
-            <div class="container">
-
-
-    <div class="emergency-box">
-        <h2 class="title">Einschränkungen im Landesamt für Gesundheit und Soziales (LAGeSo)</h2>
-        <div class="textile">&#10; <p>&#10; Das <strong>Landesamt für Gesundheit und Soziales (LAGeSo) Berlin</strong> muss nun zum zweiten Lockdown seit dem 16. Dezember wieder schnell auf das sich immer weiter ausbreitende Corona-Virus reagieren und schließt seine Einrichtungen mit Publikumsverkehr.<br />&#10; Die Mitarbeitenden bleiben weiterhin Ansprechpartnerinnen und Ansprechpartner für Ratsuchende. Um soziale Kontakte zu beschränken und Risikogruppen zu schützen, gelten weiterhin <strong><a href="https://www.berlin.de/lageso#wichtig" title="Link zu den Einschränkungen">folgende Einschränkungen</a></strong>.&#10; </p>&#10; <h3>&#10; Corona in Berlin&#10; </h3>&#10; <p>&#10; Zentrale Informationen der Berliner Verwaltung zum Coronavirus finden Sie hier: <a href="https://www.berlin.de/corona" title="Link zu den zentralen Informationen der Berliner Verwaltung"><strong>berlin.de/corona</strong></a>&#10; </p>&#10;</div></div>
-<!-- NAVIGATION BEGIN: breadcrumb -->
-<div class="row row-breadcrumb">
-  <div class="span10">
-
-    <nav class="html5-section breadcrumb" aria-label="Breadcrumb">
-      <p id="aural_breadcrumblabel" class="aural">Sie befinden sich hier:</p>
-      <ul aria-labelledby="aural_breadcrumblabel">
-        <li class="odd pos0 active"><a href="https://www.berlin.de/lageso/" class="homehaus">Landesamt für Gesundheit und Soziales</a></li><li class="even pos1 active"><a href="https://www.berlin.de/lageso/gesundheit/" >Gesundheit</a></li><li class="odd pos2 active"><a href="https://www.berlin.de/lageso/gesundheit/infektionsepidemiologie-infektionsschutz/" >Infektions&shy;epidemiologie/ Infektionsschutz</a></li><li class="even pos3 active"><a href="https://www.berlin.de/lageso/gesundheit/infektionsepidemiologie-infektionsschutz/corona/" >Corona</a></li><li class="odd pos4 active"><a href="https://www.berlin.de/lageso/gesundheit/infektionsepidemiologie-infektionsschutz/corona/tabelle-altersgruppen-gesamtuebersicht/" >Tabelle Altersgruppen Gesamtübersicht</a></li>        <li class="aural"></li>
-      </ul>
-    </nav>
-  </div>
-  <div class="span2"></div>
-</div>
-<!-- NAVIGATION END: breadcrumb -->
-
-<!--TEMPLATE BEGIN: 404-->
-<div class="row">
-    <div class="span2 column-left">
-            </div>
-
-    <div class="span7 column-content">
-        <h6 class="aural" id="aural_maincontent">Inhaltsspalte</h6>
-        <div class="html5-section article" role="main">
-            <div class="html5-header header">
-                <h1 class="title">Die Seite wurde nicht gefunden.</h1>
-            </div>
-            <div class="html5-section body">
-                                    <p>Das von Ihnen gew&uuml;nschte Angebot ist umgezogen. Die neue Adresse lautet:</p>
-                    <div class="alert alert-info">
-                        <a href="https://www.berlin.de/lageso/gesundheit/infektionsepidemiologie-infektionsschutz/corona/tabelle-altersgruppen-gesamtuebersicht/" >https://www.berlin.de/lageso/gesundheit/infektionsepidemiologie-infektionsschutz/corona/tabelle-altersgruppen-gesamtuebersicht/</a>                    </div>
-                                <div class="section_splitter"></div>
-                <h2>Finden Sie die gew&uuml;nschten Informationen</h2>
-                                <form action="https://www.berlin.de/lageso/suche.php" class="form-land">
-                    <div class="fieldset well">
-                        <div class="row-fluid">
-                            <div class="span9">
-                                <label for="input-search-404">Stichworte:</label>
-                                <input id="input-search-404" type="text" name="q" placeholder="Suchbegriff"/>
-                            </div>
-                            <div class="span3">
-                                <div class="label-placeholder"></div>
-                                <button type="submit" class="btn">Finden!</button>
-                            </div>
-                        </div>
-                    </div>
-                </form>
-
-                                <h4>Kontakt</h4>
-                <ul class="list">
-                                        <li>B&uuml;rgerservice, Verwaltung, Politik und Hauptstadt <a href="mailto:landesredaktion@senatskanzlei.berlin.de?subject=Anfrage%20an%20die%20Landesredaktion&amp;body=Bitte%20geben%20Sie%20einen%20aussagefaehigen%20Betreff%20an.">Anfrage an die Landesredaktion</a></li>
-                    <li>Tourismus, Hotels, Kultur, Tickets, Wirtschaftsstandort, allgemeine Themen <a href="mailto:info@berlin.de?subject=Anfrage%20an%20BerlinOnline&amp;body=Bitte%20geben%20Sie%20einen%20aussagefaehigen%20Betreff%20an.">Anfrage an BerlinOnline</a></li>
-                </ul>
-                <!-- 172.25.0.55 -->
-                            </div>
-        </div>
-    </div>
-
-    </div>
-<!--TEMPLATE END: 404-->
-       
-
-
-                            
-            </div><!-- /container -->
-        </div><!-- /container-wrapper -->
-    </div><!-- /layout-grid__area--maincontent -->
-
-                <div id="layout-grid__area--contentfooter" class="kiekma">
-        <!-- Footer.view -->
-<section id="content-footer" aria-label="Fussbereich mit weiteren Links zu diesem Auftritt">
-    <div class="content-footer__brand" aria-hidden="true">
-            </div>
-    <nav class="content-footer__links" aria-label="Weiterführende Links">
-        <ul class="js-collapse-palm">
-            <li class="initial-open">
-                <!--FLEX BEGIN: Footerlinklist-->
-    <ul><li><a href="https://www.berlin.de/lageso/ueber-uns/artikel.61719.php" >Impressum</a></li><li><a href="https://www.berlin.de/lageso/datenschutzerklaerung.702607.php" >Datenschutzerklärung</a></li><li><a href="https://www.berlin.de/lageso/barrierefreiheitserklaerung.919967.php" >Digitale Barrierefreiheit</a></li></ul><!--FLEX END: Footerlinklist-->
-            </li>
-                                                                    </ul>
-    </nav>
-</section>
-<!-- /Footer.view -->
-        </div>
-
-        <!-- NAVIGATION BEGIN: Feedback -->
-<div id="feedback-footer">
-    <div id="feedback-form" class="feedform-simple">
-        <div class="feed-bar">
-            <ul class="feed-tabs" id="id-feedtabs">
-                <li class="feed-feedback" style="width:100%" title="Feedback-Formular"><a class="ic-fa-openfeedback" title="&Ouml;ffnen" href="#">Feedback</a></li>
-            </ul>
-        </div>
-        <div id="feed-response">
-            <div id="feed-feedback" class="feed-box">
-                <form id="feed-form-kommentar" method="post" action="https://www.berlin.de/formular.feedback/lageso/gesundheit/infektionsepidemiologie-infektionsschutz/corona/tabelle-altersgruppen-gesamtuebersicht/index.php">
-                                        <div>
-                        <p><a href="https://www.berlin.de/lageso/barrierefreiheitserklaerung.919967.php?bfe_url=/lageso/gesundheit/infektionsepidemiologie-infektionsschutz/corona/tabelle-altersgruppen-gesamtuebersicht/index.php#contactbfe" target="_blank" title=" (Öffnet in neuem Fenster)">Feedback zur digitalen Barrierefreiheit</a></p>
-                    </div>
-                                        <div>
-                        <label for="feed-form-kommentar_message_f">
-                            <strong>Nachricht</strong>
-                            <textarea id="feed-form-kommentar_message_f" rows="7" cols="50" name="message"></textarea>
-                        </label>
-                    </div>
-                    <div>
-                        <label class="input feedback-show-email checkbox" for="feed-form-kommentar_email">Wünschen Sie eine Antwort?                            <input id="feed-form-kommentar_email" class="feedback-show-email" type="checkbox" value="1" name="show_email">
-                        </label>
-                    </div>
-                    <div class="email-hide" style="display:none">
-                        <label for="feed-form-kommentar_email_f">
-                            <strong>Ihre E-Mail-Adresse</strong>
-                            <input id="feed-form-kommentar_email_f" class="fehler_email" type="text" name="email" disabled="disabled">
-                        </label>
-                    </div>
-                    <input type="hidden" value="kommentar" name="type">
-                                        <p>Hier geht es zur
-                        <a href="https://www.berlin.de/lageso/datenschutzerklaerung.702607.php" target="_blank" title=" (Öffnet in neuem Fenster)">Datenschutzerklärung</a></p>
-                                        <button class="btn submit" type="submit">Senden</button>
-                </form>
-            </div>
-        </div>
-    </div>
-</div>
-
-<script>
-jQuery('<input type="hidden">').attr('name', 'sala'+'mi').val('lecker').appendTo(jQuery('#feed-form-kommentar'));
-jQuery('#feed-form-kommentar').on('click', function(f) { var i = $('input[name='+'sala'+'mi]'); i.attr('name', i.attr('name')+'brot').val(''); return true; });
-</script>
-<!-- NAVIGATION END: Feedback -->
-
-    </div>
-    <!-- END: CONTENTWRAPPERGRID #layout-grid -->
-
-        <!-- START: LANDESFOOTER -->
-<footer id="footer" class="kiekma">
-
-    
-    <!-- portalfooter logo -->
-    <div class="footer__brand">
-            <div class="image__image
-         "
-        style="">
-
-                <a href="https://www.berlin.de/" title="Link führt zur Startseite von Berlin.de">        <img
-            src="/i9f/r1/images/logo_berlin_m_negativ.svg"
-            alt="Link zu: Link führt zur Startseite von Berlin.de"
-                                                loading="lazy"
-        />
-        </a>    </div>
-
-    
-    </div>
-    <!-- portalfooter links -->
-    <nav class="footer__links" aria-label="Weitere Bereiche auf Berlin.de">
-        <ul class="js-collapse-palm">
-            <li>
-                <!--FLEX BEGIN: Footerlinklist-->
-    <h3 class="heading js-trigger">Service</h3><ul><li><a href="https://service.berlin.de/onlineverfahren-onlinedienstleistungen/" >Online-Dienstleistungen</a></li><li><a href="https://service.berlin.de/app/" >Service-App</a></li><li><a href="https://service.berlin.de/terminvereinbarung/" >Termin vereinbaren</a></li><li><a href="https://service.berlin.de/buergertelefon/" >Bürgertelefon 115</a></li><li><a href="https://www.berlin.de/polizei/service/so-erreichen-sie-uns/artikel.532842.php" >Notdienste</a></li><li><a href="https://www.berlin.de/ea/" >Gewerbeservice</a></li></ul><!--FLEX END: Footerlinklist-->
-            </li>
-            <li>
-                <!--FLEX BEGIN: Footerlinklist-->
-    <h3 class="heading js-trigger">Behörden</h3><ul><li><a href="https://service.berlin.de/behoerden/" >Behörden A-Z</a></li><li><a href="https://service.berlin.de/senatsverwaltungen/" >Senatsverwaltungen</a></li><li><a href="https://service.berlin.de/bezirksaemter/" >Bezirksämter</a></li><li><a href="https://service.berlin.de/standorte/buergeraemter/" >Bürgerämter</a></li><li><a href="https://service.berlin.de/jobcenter/" >Jobcenter</a></li><li><a href="https://www.berlin.de/einwanderung/" >Einwanderungsamt</a></li></ul><!--FLEX END: Footerlinklist-->
-            </li>
-            <li>
-                <!--FLEX BEGIN: Footerlinklist-->
-    <h3 class="heading js-trigger">Politik & Verwaltung</h3><ul><li><a href="https://www.berlin.de/rbmskzl/regierender-buergermeister/senat/" >Landesregierung</a></li><li><a href="https://www.berlin.de/karriereportal/" >Karriere im Land Berlin</a></li><li><a href="https://mein.berlin.de" target="_blank" title=" (Öffnet in neuem Fenster) (Öffnet in neuem Fenster)">Bürgerbeteiligung</a></li><li><a href="https://daten.berlin.de" target="_blank" title=" (Öffnet in neuem Fenster) (Öffnet in neuem Fenster)">Open Data</a></li><li><a href="https://www.berlin.de/vergabeplattform/" >Vergaben</a></li><li><a href="https://www.berlin.de/buergeraktiv/" >Ehrenamt</a></li></ul><!--FLEX END: Footerlinklist-->
-            </li>
-            <li>
-                <!--FLEX BEGIN: Footerlinklist-->
-    <h3 class="heading js-trigger">Aktuelles</h3><ul><li><a href="https://www.berlin.de/corona/" >Covid-19</a></li><li><a href="https://www.berlin.de/presse/" >Pressemitteilungen</a></li><li><a href="https://www.berlin.de/polizei/polizeimeldungen/" >Polizeimeldungen</a></li><li><a href="https://www.berlin.de/land/kalender/" >Veranstaltungen</a></li></ul><!--FLEX END: Footerlinklist-->
-            </li>
-            <li>
-                <!--FLEX BEGIN: Footerlinklist-->
-    <h3 class="heading js-trigger">Themen</h3><ul><li><a href="https://www.berlin.de/rbmskzl/service/rotes-rathaus/" >Rathausjubiläum</a></li><li><a href="https://www.berlin.de/berlin100/" >100 Jahre Groß-Berlin</a></li><li><a href="https://www.berlin.de/mauer/" >Berliner Mauer</a></li><li><a href="https://www.berlin.de/berlin-im-ueberblick/" >Berlin im Überblick</a></li></ul><!--FLEX END: Footerlinklist-->
-            </li>
-            <li>
-                <!--FLEX BEGIN: Footerlinklist-->
-    <h3 class="heading js-trigger">Weitere Informationen</h3><ul><li><a href="https://www.berlin.de/kultur-und-tickets/" >Kultur &#38; Ausgehen</a></li><li><a href="https://www.berlin.de/tourismus/" >Tourismus</a></li><li><a href="https://www.berlin.de/wirtschaft/" >Wirtschaft</a></li><li><a href="https://www.berlin.de/special/" >Lifestyle</a></li><li><a href="https://www.berlin.de/adressen/" >BerlinFinder</a></li><li><a href="https://www.berlin.de/stadtplan/" >Stadtplan</a></li></ul><!--FLEX END: Footerlinklist-->
-            </li>
-        </ul>
-    </nav>
-
-    <div class="footer__claim">
-                <p>
-            Berlin.de ist ein Angebot des Landes Berlin und der BerlinOnline Stadtportal GmbH &#38; Co. KG.            Weitere Informationen hierzu finden Sie im <a href="https://www.berlin.de/wir-ueber-uns-be/impressum/">Impressum</a>.        </p>
-    </div>
-    </footer>
-<!-- END: /LANDESFOOTER -->
-
-</div>
-<!-- END: PAGEWRAPPER #page-wrapper -->
-
-<script src="//www.berlin.de/i9f/v4/js/bo-foot.js?ts=1612975538"></script>
-
-<!-- Zaehlpixel -->
-    
-<div id="cp">
-<script>/*<![CDATA[*/
-if (typeof(DartIvwKategorie) == "undefined") DartIvwKategorie="beberlin";
-
-/*]]>*/</script>
-
-</div>
-<!-- /Zaehlpixel -->
-<span id="js-is_palm"></span>  <span id="js-is_tablet"></span>
-
-</body>
-</html>
+"id";"jahr";"meldewoche";"altersgruppe";"faelle";"inzidenz"
+"2";"2020";"10";" 0-4";"1";"0.5"
+"5";"2020";"10";" 5-9";"0";"0"
+"8";"2020";"10";" 10-14";"1";"0.6"
+"11";"2020";"10";" 15-19";"0";"0"
+"14";"2020";"10";" 20-24";"3";"1.5"
+"17";"2020";"10";" 25-29";"7";"2.4"
+"20";"2020";"10";" 30-39";"13";"2"
+"23";"2020";"10";" 40-49";"7";"1.4"
+"26";"2020";"10";" 50-59";"3";"0.6"
+"29";"2020";"10";" 60-69";"1";"0.3"
+"32";"2020";"10";" 70-79";"0";"0"
+"35";"2020";"10";" 80-89";"1";"0.5"
+"38";"2020";"10";" 90+";"0";"0"
+"41";"2020";"10";" unbekannt";"0";"0"
+"44";"2020";"11";" 0-4";"6";"3.2"
+"47";"2020";"11";" 5-9";"2";"1.2"
+"50";"2020";"11";" 10-14";"1";"0.6"
+"53";"2020";"11";" 15-19";"6";"4"
+"56";"2020";"11";" 20-24";"18";"8.8"
+"59";"2020";"11";" 25-29";"35";"12.2"
+"62";"2020";"11";" 30-39";"79";"12.1"
+"65";"2020";"11";" 40-49";"48";"9.9"
+"68";"2020";"11";" 50-59";"40";"7.4"
+"71";"2020";"11";" 60-69";"15";"3.8"
+"74";"2020";"11";" 70-79";"8";"2.5"
+"77";"2020";"11";" 80-89";"1";"0.5"
+"80";"2020";"11";" 90+";"0";"0"
+"83";"2020";"11";" unbekannt";"0";"0"
+"86";"2020";"12";" 0-4";"8";"4.2"
+"89";"2020";"12";" 5-9";"6";"3.5"
+"92";"2020";"12";" 10-14";"31";"19.8"
+"95";"2020";"12";" 15-19";"21";"14"
+"98";"2020";"12";" 20-24";"55";"26.9"
+"101";"2020";"12";" 25-29";"98";"34.1"
+"104";"2020";"12";" 30-39";"219";"33.6"
+"107";"2020";"12";" 40-49";"151";"31.2"
+"110";"2020";"12";" 50-59";"163";"30"
+"113";"2020";"12";" 60-69";"55";"13.8"
+"116";"2020";"12";" 70-79";"29";"9.1"
+"119";"2020";"12";" 80-89";"10";"5.4"
+"122";"2020";"12";" 90+";"1";"3.2"
+"125";"2020";"12";" unbekannt";"0";"0"
+"128";"2020";"13";" 0-4";"12";"6.3"
+"131";"2020";"13";" 5-9";"10";"5.8"
+"134";"2020";"13";" 10-14";"19";"12.1"
+"137";"2020";"13";" 15-19";"31";"20.7"
+"140";"2020";"13";" 20-24";"110";"53.8"
+"143";"2020";"13";" 25-29";"181";"63"
+"146";"2020";"13";" 30-39";"333";"51.1"
+"149";"2020";"13";" 40-49";"199";"41.1"
+"152";"2020";"13";" 50-59";"239";"44"
+"155";"2020";"13";" 60-69";"123";"30.9"
+"158";"2020";"13";" 70-79";"77";"24.2"
+"161";"2020";"13";" 80-89";"39";"21.1"
+"164";"2020";"13";" 90+";"5";"16"
+"167";"2020";"13";" unbekannt";"0";"0"
+"170";"2020";"14";" 0-4";"21";"11.1"
+"173";"2020";"14";" 5-9";"13";"7.6"
+"176";"2020";"14";" 10-14";"20";"12.8"
+"179";"2020";"14";" 15-19";"35";"23.4"
+"182";"2020";"14";" 20-24";"84";"41.1"
+"185";"2020";"14";" 25-29";"104";"36.2"
+"188";"2020";"14";" 30-39";"216";"33.2"
+"191";"2020";"14";" 40-49";"206";"42.5"
+"194";"2020";"14";" 50-59";"207";"38.1"
+"197";"2020";"14";" 60-69";"124";"31.2"
+"200";"2020";"14";" 70-79";"100";"31.4"
+"203";"2020";"14";" 80-89";"76";"41.2"
+"206";"2020";"14";" 90+";"24";"77"
+"209";"2020";"14";" unbekannt";"0";"0"
+"212";"2020";"15";" 0-4";"15";"7.9"
+"215";"2020";"15";" 5-9";"10";"5.8"
+"218";"2020";"15";" 10-14";"11";"7"
+"221";"2020";"15";" 15-19";"31";"20.7"
+"224";"2020";"15";" 20-24";"53";"25.9"
+"227";"2020";"15";" 25-29";"81";"28.2"
+"230";"2020";"15";" 30-39";"185";"28.4"
+"233";"2020";"15";" 40-49";"135";"27.9"
+"236";"2020";"15";" 50-59";"137";"25.2"
+"239";"2020";"15";" 60-69";"71";"17.9"
+"242";"2020";"15";" 70-79";"75";"23.6"
+"245";"2020";"15";" 80-89";"90";"48.8"
+"248";"2020";"15";" 90+";"30";"96.3"
+"251";"2020";"15";" unbekannt";"0";"0"
+"254";"2020";"16";" 0-4";"5";"2.6"
+"257";"2020";"16";" 5-9";"12";"7"
+"260";"2020";"16";" 10-14";"7";"4.5"
+"263";"2020";"16";" 15-19";"15";"10"
+"266";"2020";"16";" 20-24";"28";"13.7"
+"269";"2020";"16";" 25-29";"62";"21.6"
+"272";"2020";"16";" 30-39";"98";"15"
+"275";"2020";"16";" 40-49";"82";"16.9"
+"278";"2020";"16";" 50-59";"102";"18.8"
+"281";"2020";"16";" 60-69";"48";"12.1"
+"284";"2020";"16";" 70-79";"46";"14.5"
+"287";"2020";"16";" 80-89";"50";"27.1"
+"290";"2020";"16";" 90+";"21";"67.4"
+"293";"2020";"16";" unbekannt";"0";"0"
+"296";"2020";"17";" 0-4";"7";"3.7"
+"299";"2020";"17";" 5-9";"9";"5.2"
+"302";"2020";"17";" 10-14";"11";"7"
+"305";"2020";"17";" 15-19";"13";"8.7"
+"308";"2020";"17";" 20-24";"25";"12.2"
+"311";"2020";"17";" 25-29";"40";"13.9"
+"314";"2020";"17";" 30-39";"68";"10.4"
+"317";"2020";"17";" 40-49";"45";"9.3"
+"320";"2020";"17";" 50-59";"76";"14"
+"323";"2020";"17";" 60-69";"40";"10.1"
+"326";"2020";"17";" 70-79";"39";"12.3"
+"329";"2020";"17";" 80-89";"49";"26.6"
+"332";"2020";"17";" 90+";"15";"48.1"
+"335";"2020";"17";" unbekannt";"0";"0"
+"338";"2020";"18";" 0-4";"4";"2.1"
+"341";"2020";"18";" 5-9";"6";"3.5"
+"344";"2020";"18";" 10-14";"4";"2.6"
+"347";"2020";"18";" 15-19";"10";"6.7"
+"350";"2020";"18";" 20-24";"23";"11.3"
+"353";"2020";"18";" 25-29";"23";"8"
+"356";"2020";"18";" 30-39";"49";"7.5"
+"359";"2020";"18";" 40-49";"44";"9.1"
+"362";"2020";"18";" 50-59";"57";"10.5"
+"365";"2020";"18";" 60-69";"43";"10.8"
+"368";"2020";"18";" 70-79";"42";"13.2"
+"371";"2020";"18";" 80-89";"36";"19.5"
+"374";"2020";"18";" 90+";"7";"22.5"
+"377";"2020";"18";" unbekannt";"0";"0"
+"380";"2020";"19";" 0-4";"8";"4.2"
+"383";"2020";"19";" 5-9";"2";"1.2"
+"386";"2020";"19";" 10-14";"3";"1.9"
+"389";"2020";"19";" 15-19";"8";"5.3"
+"392";"2020";"19";" 20-24";"17";"8.3"
+"395";"2020";"19";" 25-29";"18";"6.3"
+"398";"2020";"19";" 30-39";"49";"7.5"
+"401";"2020";"19";" 40-49";"33";"6.8"
+"404";"2020";"19";" 50-59";"35";"6.4"
+"407";"2020";"19";" 60-69";"23";"5.8"
+"410";"2020";"19";" 70-79";"22";"6.9"
+"413";"2020";"19";" 80-89";"21";"11.4"
+"416";"2020";"19";" 90+";"11";"35.3"
+"419";"2020";"19";" unbekannt";"0";"0"
+"422";"2020";"20";" 0-4";"6";"3.2"
+"425";"2020";"20";" 5-9";"4";"2.3"
+"428";"2020";"20";" 10-14";"7";"4.5"
+"431";"2020";"20";" 15-19";"11";"7.3"
+"434";"2020";"20";" 20-24";"15";"7.3"
+"437";"2020";"20";" 25-29";"19";"6.6"
+"440";"2020";"20";" 30-39";"33";"5.1"
+"443";"2020";"20";" 40-49";"36";"7.4"
+"446";"2020";"20";" 50-59";"25";"4.6"
+"449";"2020";"20";" 60-69";"15";"3.8"
+"452";"2020";"20";" 70-79";"12";"3.8"
+"455";"2020";"20";" 80-89";"10";"5.4"
+"458";"2020";"20";" 90+";"4";"12.8"
+"461";"2020";"20";" unbekannt";"0";"0"
+"464";"2020";"21";" 0-4";"3";"1.6"
+"467";"2020";"21";" 5-9";"5";"2.9"
+"470";"2020";"21";" 10-14";"11";"7"
+"473";"2020";"21";" 15-19";"11";"7.3"
+"476";"2020";"21";" 20-24";"12";"5.9"
+"479";"2020";"21";" 25-29";"16";"5.6"
+"482";"2020";"21";" 30-39";"31";"4.8"
+"485";"2020";"21";" 40-49";"29";"6"
+"488";"2020";"21";" 50-59";"23";"4.2"
+"491";"2020";"21";" 60-69";"8";"2"
+"494";"2020";"21";" 70-79";"16";"5"
+"497";"2020";"21";" 80-89";"16";"8.7"
+"500";"2020";"21";" 90+";"3";"9.6"
+"503";"2020";"21";" unbekannt";"0";"0"
+"506";"2020";"22";" 0-4";"5";"2.6"
+"509";"2020";"22";" 5-9";"11";"6.4"
+"512";"2020";"22";" 10-14";"10";"6.4"
+"515";"2020";"22";" 15-19";"13";"8.7"
+"518";"2020";"22";" 20-24";"19";"9.3"
+"521";"2020";"22";" 25-29";"14";"4.9"
+"524";"2020";"22";" 30-39";"30";"4.6"
+"527";"2020";"22";" 40-49";"31";"6.4"
+"530";"2020";"22";" 50-59";"26";"4.8"
+"533";"2020";"22";" 60-69";"16";"4"
+"536";"2020";"22";" 70-79";"9";"2.8"
+"539";"2020";"22";" 80-89";"5";"2.7"
+"542";"2020";"22";" 90+";"2";"6.4"
+"545";"2020";"22";" unbekannt";"0";"0"
+"548";"2020";"23";" 0-4";"12";"6.3"
+"551";"2020";"23";" 5-9";"7";"4.1"
+"554";"2020";"23";" 10-14";"18";"11.5"
+"557";"2020";"23";" 15-19";"12";"8"
+"560";"2020";"23";" 20-24";"19";"9.3"
+"563";"2020";"23";" 25-29";"17";"5.9"
+"566";"2020";"23";" 30-39";"35";"5.4"
+"569";"2020";"23";" 40-49";"30";"6.2"
+"572";"2020";"23";" 50-59";"18";"3.3"
+"575";"2020";"23";" 60-69";"5";"1.3"
+"578";"2020";"23";" 70-79";"8";"2.5"
+"581";"2020";"23";" 80-89";"7";"3.8"
+"584";"2020";"23";" 90+";"1";"3.2"
+"587";"2020";"23";" unbekannt";"0";"0"
+"590";"2020";"24";" 0-4";"33";"17.4"
+"593";"2020";"24";" 5-9";"32";"18.6"
+"596";"2020";"24";" 10-14";"31";"19.8"
+"599";"2020";"24";" 15-19";"21";"14"
+"602";"2020";"24";" 20-24";"21";"10.3"
+"605";"2020";"24";" 25-29";"35";"12.2"
+"608";"2020";"24";" 30-39";"55";"8.4"
+"611";"2020";"24";" 40-49";"42";"8.7"
+"614";"2020";"24";" 50-59";"29";"5.3"
+"617";"2020";"24";" 60-69";"17";"4.3"
+"620";"2020";"24";" 70-79";"7";"2.2"
+"623";"2020";"24";" 80-89";"8";"4.3"
+"626";"2020";"24";" 90+";"5";"16"
+"629";"2020";"24";" unbekannt";"0";"0"
+"632";"2020";"25";" 0-4";"46";"24.2"
+"635";"2020";"25";" 5-9";"47";"27.4"
+"638";"2020";"25";" 10-14";"42";"26.8"
+"641";"2020";"25";" 15-19";"41";"27.4"
+"644";"2020";"25";" 20-24";"29";"14.2"
+"647";"2020";"25";" 25-29";"44";"15.3"
+"650";"2020";"25";" 30-39";"98";"15"
+"653";"2020";"25";" 40-49";"72";"14.9"
+"656";"2020";"25";" 50-59";"42";"7.7"
+"659";"2020";"25";" 60-69";"24";"6"
+"662";"2020";"25";" 70-79";"7";"2.2"
+"665";"2020";"25";" 80-89";"15";"8.1"
+"668";"2020";"25";" 90+";"4";"12.8"
+"671";"2020";"25";" unbekannt";"0";"0"
+"674";"2020";"26";" 0-4";"26";"13.7"
+"677";"2020";"26";" 5-9";"21";"12.2"
+"680";"2020";"26";" 10-14";"22";"14.1"
+"683";"2020";"26";" 15-19";"10";"6.7"
+"686";"2020";"26";" 20-24";"17";"8.3"
+"689";"2020";"26";" 25-29";"35";"12.2"
+"692";"2020";"26";" 30-39";"68";"10.4"
+"695";"2020";"26";" 40-49";"48";"9.9"
+"698";"2020";"26";" 50-59";"37";"6.8"
+"701";"2020";"26";" 60-69";"16";"4"
+"704";"2020";"26";" 70-79";"7";"2.2"
+"707";"2020";"26";" 80-89";"5";"2.7"
+"710";"2020";"26";" 90+";"5";"16"
+"713";"2020";"26";" unbekannt";"0";"0"
+"716";"2020";"27";" 0-4";"11";"5.8"
+"719";"2020";"27";" 5-9";"10";"5.8"
+"722";"2020";"27";" 10-14";"6";"3.8"
+"725";"2020";"27";" 15-19";"15";"10"
+"728";"2020";"27";" 20-24";"23";"11.3"
+"731";"2020";"27";" 25-29";"38";"13.2"
+"734";"2020";"27";" 30-39";"52";"8"
+"737";"2020";"27";" 40-49";"45";"9.3"
+"740";"2020";"27";" 50-59";"32";"5.9"
+"743";"2020";"27";" 60-69";"12";"3"
+"746";"2020";"27";" 70-79";"9";"2.8"
+"749";"2020";"27";" 80-89";"9";"4.9"
+"752";"2020";"27";" 90+";"3";"9.6"
+"755";"2020";"27";" unbekannt";"0";"0"
+"758";"2020";"28";" 0-4";"11";"5.8"
+"761";"2020";"28";" 5-9";"16";"9.3"
+"764";"2020";"28";" 10-14";"8";"5.1"
+"767";"2020";"28";" 15-19";"7";"4.7"
+"770";"2020";"28";" 20-24";"16";"7.8"
+"773";"2020";"28";" 25-29";"15";"5.2"
+"776";"2020";"28";" 30-39";"48";"7.4"
+"779";"2020";"28";" 40-49";"26";"5.4"
+"782";"2020";"28";" 50-59";"20";"3.7"
+"785";"2020";"28";" 60-69";"9";"2.3"
+"788";"2020";"28";" 70-79";"7";"2.2"
+"791";"2020";"28";" 80-89";"4";"2.2"
+"794";"2020";"28";" 90+";"2";"6.4"
+"797";"2020";"28";" unbekannt";"0";"0"
+"800";"2020";"29";" 0-4";"5";"2.6"
+"803";"2020";"29";" 5-9";"6";"3.5"
+"806";"2020";"29";" 10-14";"8";"5.1"
+"809";"2020";"29";" 15-19";"10";"6.7"
+"812";"2020";"29";" 20-24";"16";"7.8"
+"815";"2020";"29";" 25-29";"10";"3.5"
+"818";"2020";"29";" 30-39";"23";"3.5"
+"821";"2020";"29";" 40-49";"22";"4.5"
+"824";"2020";"29";" 50-59";"20";"3.7"
+"827";"2020";"29";" 60-69";"2";"0.5"
+"830";"2020";"29";" 70-79";"3";"0.9"
+"833";"2020";"29";" 80-89";"2";"1.1"
+"836";"2020";"29";" 90+";"5";"16"
+"839";"2020";"29";" unbekannt";"0";"0"
+"842";"2020";"30";" 0-4";"7";"3.7"
+"845";"2020";"30";" 5-9";"4";"2.3"
+"848";"2020";"30";" 10-14";"6";"3.8"
+"851";"2020";"30";" 15-19";"16";"10.7"
+"854";"2020";"30";" 20-24";"33";"16.2"
+"857";"2020";"30";" 25-29";"32";"11.1"
+"860";"2020";"30";" 30-39";"43";"6.6"
+"863";"2020";"30";" 40-49";"33";"6.8"
+"866";"2020";"30";" 50-59";"27";"5"
+"869";"2020";"30";" 60-69";"14";"3.5"
+"872";"2020";"30";" 70-79";"2";"0.6"
+"875";"2020";"30";" 80-89";"2";"1.1"
+"878";"2020";"30";" 90+";"1";"3.2"
+"881";"2020";"30";" unbekannt";"0";"0"
+"884";"2020";"31";" 0-4";"16";"8.4"
+"887";"2020";"31";" 5-9";"17";"9.9"
+"890";"2020";"31";" 10-14";"20";"12.8"
+"893";"2020";"31";" 15-19";"24";"16"
+"896";"2020";"31";" 20-24";"44";"21.5"
+"899";"2020";"31";" 25-29";"45";"15.7"
+"902";"2020";"31";" 30-39";"59";"9.1"
+"905";"2020";"31";" 40-49";"58";"12"
+"908";"2020";"31";" 50-59";"34";"6.3"
+"911";"2020";"31";" 60-69";"9";"2.3"
+"914";"2020";"31";" 70-79";"4";"1.3"
+"917";"2020";"31";" 80-89";"4";"2.2"
+"920";"2020";"31";" 90+";"0";"0"
+"923";"2020";"31";" unbekannt";"0";"0"
+"926";"2020";"32";" 0-4";"11";"5.8"
+"929";"2020";"32";" 5-9";"28";"16.3"
+"932";"2020";"32";" 10-14";"41";"26.2"
+"935";"2020";"32";" 15-19";"35";"23.4"
+"938";"2020";"32";" 20-24";"43";"21"
+"941";"2020";"32";" 25-29";"34";"11.8"
+"944";"2020";"32";" 30-39";"70";"10.7"
+"947";"2020";"32";" 40-49";"59";"12.2"
+"950";"2020";"32";" 50-59";"38";"7"
+"953";"2020";"32";" 60-69";"16";"4"
+"956";"2020";"32";" 70-79";"3";"0.9"
+"959";"2020";"32";" 80-89";"3";"1.6"
+"962";"2020";"32";" 90+";"1";"3.2"
+"965";"2020";"32";" unbekannt";"0";"0"
+"968";"2020";"33";" 0-4";"12";"6.3"
+"971";"2020";"33";" 5-9";"42";"24.5"
+"974";"2020";"33";" 10-14";"54";"34.5"
+"977";"2020";"33";" 15-19";"40";"26.7"
+"980";"2020";"33";" 20-24";"72";"35.2"
+"983";"2020";"33";" 25-29";"53";"18.5"
+"986";"2020";"33";" 30-39";"118";"18.1"
+"989";"2020";"33";" 40-49";"79";"16.3"
+"992";"2020";"33";" 50-59";"49";"9"
+"995";"2020";"33";" 60-69";"12";"3"
+"998";"2020";"33";" 70-79";"10";"3.1"
+"1001";"2020";"33";" 80-89";"4";"2.2"
+"1004";"2020";"33";" 90+";"0";"0"
+"1007";"2020";"33";" unbekannt";"0";"0"
+"1010";"2020";"34";" 0-4";"17";"9"
+"1013";"2020";"34";" 5-9";"15";"8.7"
+"1016";"2020";"34";" 10-14";"24";"15.3"
+"1019";"2020";"34";" 15-19";"27";"18"
+"1022";"2020";"34";" 20-24";"75";"36.7"
+"1025";"2020";"34";" 25-29";"59";"20.5"
+"1028";"2020";"34";" 30-39";"112";"17.2"
+"1031";"2020";"34";" 40-49";"73";"15.1"
+"1034";"2020";"34";" 50-59";"36";"6.6"
+"1037";"2020";"34";" 60-69";"16";"4"
+"1040";"2020";"34";" 70-79";"6";"1.9"
+"1043";"2020";"34";" 80-89";"5";"2.7"
+"1046";"2020";"34";" 90+";"1";"3.2"
+"1049";"2020";"34";" unbekannt";"0";"0"
+"1052";"2020";"35";" 0-4";"11";"5.8"
+"1055";"2020";"35";" 5-9";"17";"9.9"
+"1058";"2020";"35";" 10-14";"19";"12.1"
+"1061";"2020";"35";" 15-19";"25";"16.7"
+"1064";"2020";"35";" 20-24";"72";"35.2"
+"1067";"2020";"35";" 25-29";"93";"32.4"
+"1070";"2020";"35";" 30-39";"120";"18.4"
+"1073";"2020";"35";" 40-49";"57";"11.8"
+"1076";"2020";"35";" 50-59";"36";"6.6"
+"1079";"2020";"35";" 60-69";"19";"4.8"
+"1082";"2020";"35";" 70-79";"8";"2.5"
+"1085";"2020";"35";" 80-89";"2";"1.1"
+"1088";"2020";"35";" 90+";"0";"0"
+"1091";"2020";"35";" unbekannt";"1";"0"
+"1094";"2020";"36";" 0-4";"9";"4.7"
+"1097";"2020";"36";" 5-9";"9";"5.2"
+"1100";"2020";"36";" 10-14";"14";"8.9"
+"1103";"2020";"36";" 15-19";"46";"30.7"
+"1106";"2020";"36";" 20-24";"92";"45"
+"1109";"2020";"36";" 25-29";"124";"43.2"
+"1112";"2020";"36";" 30-39";"118";"18.1"
+"1115";"2020";"36";" 40-49";"62";"12.8"
+"1118";"2020";"36";" 50-59";"27";"5"
+"1121";"2020";"36";" 60-69";"8";"2"
+"1124";"2020";"36";" 70-79";"9";"2.8"
+"1127";"2020";"36";" 80-89";"1";"0.5"
+"1130";"2020";"36";" 90+";"0";"0"
+"1133";"2020";"36";" unbekannt";"3";"0"
+"1136";"2020";"37";" 0-4";"12";"6.3"
+"1139";"2020";"37";" 5-9";"19";"11.1"
+"1142";"2020";"37";" 10-14";"19";"12.1"
+"1145";"2020";"37";" 15-19";"33";"22"
+"1148";"2020";"37";" 20-24";"98";"48"
+"1151";"2020";"37";" 25-29";"90";"31.3"
+"1154";"2020";"37";" 30-39";"146";"22.4"
+"1157";"2020";"37";" 40-49";"62";"12.8"
+"1160";"2020";"37";" 50-59";"56";"10.3"
+"1163";"2020";"37";" 60-69";"23";"5.8"
+"1166";"2020";"37";" 70-79";"10";"3.1"
+"1169";"2020";"37";" 80-89";"9";"4.9"
+"1172";"2020";"37";" 90+";"3";"9.6"
+"1175";"2020";"37";" unbekannt";"0";"0"
+"1178";"2020";"38";" 0-4";"14";"7.4"
+"1181";"2020";"38";" 5-9";"18";"10.5"
+"1184";"2020";"38";" 10-14";"23";"14.7"
+"1187";"2020";"38";" 15-19";"44";"29.4"
+"1190";"2020";"38";" 20-24";"101";"49.4"
+"1193";"2020";"38";" 25-29";"145";"50.5"
+"1196";"2020";"38";" 30-39";"212";"32.6"
+"1199";"2020";"38";" 40-49";"111";"22.9"
+"1202";"2020";"38";" 50-59";"86";"15.8"
+"1205";"2020";"38";" 60-69";"46";"11.6"
+"1208";"2020";"38";" 70-79";"22";"6.9"
+"1211";"2020";"38";" 80-89";"13";"7"
+"1214";"2020";"38";" 90+";"3";"9.6"
+"1217";"2020";"38";" unbekannt";"3";"0"
+"1220";"2020";"39";" 0-4";"8";"4.2"
+"1223";"2020";"39";" 5-9";"22";"12.8"
+"1226";"2020";"39";" 10-14";"37";"23.6"
+"1229";"2020";"39";" 15-19";"68";"45.4"
+"1232";"2020";"39";" 20-24";"128";"62.7"
+"1235";"2020";"39";" 25-29";"151";"52.6"
+"1238";"2020";"39";" 30-39";"244";"37.5"
+"1241";"2020";"39";" 40-49";"165";"34.1"
+"1244";"2020";"39";" 50-59";"151";"27.8"
+"1247";"2020";"39";" 60-69";"60";"15.1"
+"1250";"2020";"39";" 70-79";"34";"10.7"
+"1253";"2020";"39";" 80-89";"15";"8.1"
+"1256";"2020";"39";" 90+";"5";"16"
+"1259";"2020";"39";" unbekannt";"4";"0"
+"1262";"2020";"40";" 0-4";"29";"15.3"
+"1265";"2020";"40";" 5-9";"43";"25"
+"1268";"2020";"40";" 10-14";"67";"42.8"
+"1271";"2020";"40";" 15-19";"115";"76.8"
+"1274";"2020";"40";" 20-24";"178";"87.1"
+"1277";"2020";"40";" 25-29";"224";"78"
+"1280";"2020";"40";" 30-39";"330";"50.7"
+"1283";"2020";"40";" 40-49";"198";"40.9"
+"1286";"2020";"40";" 50-59";"188";"34.6"
+"1289";"2020";"40";" 60-69";"84";"21.1"
+"1292";"2020";"40";" 70-79";"57";"17.9"
+"1295";"2020";"40";" 80-89";"44";"23.9"
+"1298";"2020";"40";" 90+";"2";"6.4"
+"1301";"2020";"40";" unbekannt";"2";"0"
+"1304";"2020";"41";" 0-4";"49";"25.8"
+"1307";"2020";"41";" 5-9";"58";"33.8"
+"1310";"2020";"41";" 10-14";"151";"96.5"
+"1313";"2020";"41";" 15-19";"187";"124.8"
+"1316";"2020";"41";" 20-24";"306";"149.8"
+"1319";"2020";"41";" 25-29";"324";"112.8"
+"1322";"2020";"41";" 30-39";"440";"67.6"
+"1325";"2020";"41";" 40-49";"340";"70.2"
+"1328";"2020";"41";" 50-59";"289";"53.2"
+"1331";"2020";"41";" 60-69";"136";"34.2"
+"1334";"2020";"41";" 70-79";"70";"22"
+"1337";"2020";"41";" 80-89";"49";"26.6"
+"1340";"2020";"41";" 90+";"8";"25.7"
+"1343";"2020";"41";" unbekannt";"17";"0"
+"1346";"2020";"42";" 0-4";"74";"39"
+"1349";"2020";"42";" 5-9";"93";"54.2"
+"1352";"2020";"42";" 10-14";"160";"102.2"
+"1355";"2020";"42";" 15-19";"254";"169.5"
+"1358";"2020";"42";" 20-24";"363";"177.7"
+"1361";"2020";"42";" 25-29";"433";"150.8"
+"1364";"2020";"42";" 30-39";"680";"104.4"
+"1367";"2020";"42";" 40-49";"514";"106.1"
+"1370";"2020";"42";" 50-59";"411";"75.7"
+"1373";"2020";"42";" 60-69";"199";"50"
+"1376";"2020";"42";" 70-79";"107";"33.6"
+"1379";"2020";"42";" 80-89";"53";"28.7"
+"1382";"2020";"42";" 90+";"12";"38.5"
+"1385";"2020";"42";" unbekannt";"19";"0"
+"1388";"2020";"43";" 0-4";"83";"43.7"
+"1391";"2020";"43";" 5-9";"89";"51.8"
+"1394";"2020";"43";" 10-14";"187";"119.5"
+"1397";"2020";"43";" 15-19";"275";"183.6"
+"1400";"2020";"43";" 20-24";"549";"268.7"
+"1403";"2020";"43";" 25-29";"590";"205.5"
+"1406";"2020";"43";" 30-39";"1043";"160.2"
+"1409";"2020";"43";" 40-49";"734";"151.6"
+"1412";"2020";"43";" 50-59";"703";"129.4"
+"1415";"2020";"43";" 60-69";"305";"76.7"
+"1418";"2020";"43";" 70-79";"153";"48.1"
+"1421";"2020";"43";" 80-89";"120";"65.1"
+"1424";"2020";"43";" 90+";"48";"154"
+"1427";"2020";"43";" unbekannt";"55";"0"
+"1430";"2020";"44";" 0-4";"110";"58"
+"1433";"2020";"44";" 5-9";"147";"85.6"
+"1436";"2020";"44";" 10-14";"239";"152.7"
+"1439";"2020";"44";" 15-19";"334";"222.9"
+"1442";"2020";"44";" 20-24";"576";"282"
+"1445";"2020";"44";" 25-29";"692";"241"
+"1448";"2020";"44";" 30-39";"1248";"191.7"
+"1451";"2020";"44";" 40-49";"891";"184"
+"1454";"2020";"44";" 50-59";"861";"158.5"
+"1457";"2020";"44";" 60-69";"449";"112.9"
+"1460";"2020";"44";" 70-79";"296";"93"
+"1463";"2020";"44";" 80-89";"267";"144.7"
+"1466";"2020";"44";" 90+";"95";"304.8"
+"1469";"2020";"44";" unbekannt";"70";"0"
+"1472";"2020";"45";" 0-4";"120";"63.2"
+"1475";"2020";"45";" 5-9";"156";"90.9"
+"1478";"2020";"45";" 10-14";"255";"162.9"
+"1481";"2020";"45";" 15-19";"483";"322.4"
+"1484";"2020";"45";" 20-24";"640";"313.3"
+"1487";"2020";"45";" 25-29";"778";"271"
+"1490";"2020";"45";" 30-39";"1423";"218.5"
+"1493";"2020";"45";" 40-49";"1046";"216"
+"1496";"2020";"45";" 50-59";"1032";"190"
+"1499";"2020";"45";" 60-69";"506";"127.2"
+"1502";"2020";"45";" 70-79";"317";"99.6"
+"1505";"2020";"45";" 80-89";"252";"136.6"
+"1508";"2020";"45";" 90+";"72";"231"
+"1511";"2020";"45";" unbekannt";"68";"0"
+"1514";"2020";"46";" 0-4";"96";"50.6"
+"1517";"2020";"46";" 5-9";"172";"100.2"
+"1520";"2020";"46";" 10-14";"372";"237.7"
+"1523";"2020";"46";" 15-19";"544";"363.1"
+"1526";"2020";"46";" 20-24";"773";"378.4"
+"1529";"2020";"46";" 25-29";"897";"312.4"
+"1532";"2020";"46";" 30-39";"1675";"257.2"
+"1535";"2020";"46";" 40-49";"1153";"238.1"
+"1538";"2020";"46";" 50-59";"1178";"216.8"
+"1541";"2020";"46";" 60-69";"605";"152.1"
+"1544";"2020";"46";" 70-79";"376";"118.1"
+"1547";"2020";"46";" 80-89";"319";"172.9"
+"1550";"2020";"46";" 90+";"105";"336.9"
+"1553";"2020";"46";" unbekannt";"187";"0"
+"1556";"2020";"47";" 0-4";"128";"67.5"
+"1559";"2020";"47";" 5-9";"242";"141"
+"1562";"2020";"47";" 10-14";"393";"251.1"
+"1565";"2020";"47";" 15-19";"563";"375.8"
+"1568";"2020";"47";" 20-24";"692";"338.7"
+"1571";"2020";"47";" 25-29";"828";"288.4"
+"1574";"2020";"47";" 30-39";"1606";"246.6"
+"1577";"2020";"47";" 40-49";"1262";"260.6"
+"1580";"2020";"47";" 50-59";"1182";"217.6"
+"1583";"2020";"47";" 60-69";"588";"147.8"
+"1586";"2020";"47";" 70-79";"417";"131"
+"1589";"2020";"47";" 80-89";"347";"188.1"
+"1592";"2020";"47";" 90+";"109";"349.8"
+"1595";"2020";"47";" unbekannt";"64";"0"
+"1598";"2020";"48";" 0-4";"116";"61.1"
+"1601";"2020";"48";" 5-9";"243";"141.5"
+"1604";"2020";"48";" 10-14";"390";"249.2"
+"1607";"2020";"48";" 15-19";"440";"293.7"
+"1610";"2020";"48";" 20-24";"574";"281"
+"1613";"2020";"48";" 25-29";"643";"223.9"
+"1616";"2020";"48";" 30-39";"1369";"210.2"
+"1619";"2020";"48";" 40-49";"1176";"242.9"
+"1622";"2020";"48";" 50-59";"1080";"198.8"
+"1625";"2020";"48";" 60-69";"590";"148.4"
+"1628";"2020";"48";" 70-79";"402";"126.3"
+"1631";"2020";"48";" 80-89";"488";"264.6"
+"1634";"2020";"48";" 90+";"217";"696.3"
+"1637";"2020";"48";" unbekannt";"33";"0"
+"1640";"2020";"49";" 0-4";"123";"64.8"
+"1643";"2020";"49";" 5-9";"195";"113.6"
+"1646";"2020";"49";" 10-14";"290";"185.3"
+"1649";"2020";"49";" 15-19";"400";"267"
+"1652";"2020";"49";" 20-24";"483";"236.4"
+"1655";"2020";"49";" 25-29";"533";"185.6"
+"1658";"2020";"49";" 30-39";"1210";"185.8"
+"1661";"2020";"49";" 40-49";"1044";"215.6"
+"1664";"2020";"49";" 50-59";"987";"181.7"
+"1667";"2020";"49";" 60-69";"565";"142.1"
+"1670";"2020";"49";" 70-79";"462";"145.2"
+"1673";"2020";"49";" 80-89";"536";"290.6"
+"1676";"2020";"49";" 90+";"224";"718.8"
+"1679";"2020";"49";" unbekannt";"60";"0"
+"1682";"2020";"50";" 0-4";"131";"69"
+"1685";"2020";"50";" 5-9";"220";"128.1"
+"1688";"2020";"50";" 10-14";"303";"193.6"
+"1691";"2020";"50";" 15-19";"369";"246.3"
+"1694";"2020";"50";" 20-24";"494";"241.8"
+"1697";"2020";"50";" 25-29";"579";"201.6"
+"1700";"2020";"50";" 30-39";"1298";"199.3"
+"1703";"2020";"50";" 40-49";"1088";"224.7"
+"1706";"2020";"50";" 50-59";"1109";"204.1"
+"1709";"2020";"50";" 60-69";"638";"160.4"
+"1712";"2020";"50";" 70-79";"482";"151.4"
+"1715";"2020";"50";" 80-89";"541";"293.3"
+"1718";"2020";"50";" 90+";"246";"789.4"
+"1721";"2020";"50";" unbekannt";"52";"0"
+"1724";"2020";"51";" 0-4";"148";"78"
+"1727";"2020";"51";" 5-9";"219";"127.6"
+"1730";"2020";"51";" 10-14";"238";"152.1"
+"1733";"2020";"51";" 15-19";"341";"227.6"
+"1736";"2020";"51";" 20-24";"485";"237.4"
+"1739";"2020";"51";" 25-29";"726";"252.8"
+"1742";"2020";"51";" 30-39";"1472";"226.1"
+"1745";"2020";"51";" 40-49";"1174";"242.4"
+"1748";"2020";"51";" 50-59";"1231";"226.6"
+"1751";"2020";"51";" 60-69";"729";"183.3"
+"1754";"2020";"51";" 70-79";"580";"182.2"
+"1757";"2020";"51";" 80-89";"643";"348.6"
+"1760";"2020";"51";" 90+";"324";"1039.7"
+"1763";"2020";"51";" unbekannt";"50";"0"
+"1766";"2020";"52";" 0-4";"92";"48.5"
+"1769";"2020";"52";" 5-9";"123";"71.6"
+"1772";"2020";"52";" 10-14";"149";"95.2"
+"1775";"2020";"52";" 15-19";"221";"147.5"
+"1778";"2020";"52";" 20-24";"363";"177.7"
+"1781";"2020";"52";" 25-29";"523";"182.1"
+"1784";"2020";"52";" 30-39";"1105";"169.7"
+"1787";"2020";"52";" 40-49";"947";"195.6"
+"1790";"2020";"52";" 50-59";"983";"180.9"
+"1793";"2020";"52";" 60-69";"589";"148.1"
+"1796";"2020";"52";" 70-79";"532";"167.1"
+"1799";"2020";"52";" 80-89";"595";"322.6"
+"1802";"2020";"52";" 90+";"244";"783"
+"1805";"2020";"52";" unbekannt";"106";"0"
+"1808";"2020";"53";" 0-4";"60";"31.6"
+"1811";"2020";"53";" 5-9";"79";"46"
+"1814";"2020";"53";" 10-14";"80";"51.1"
+"1817";"2020";"53";" 15-19";"183";"122.2"
+"1820";"2020";"53";" 20-24";"300";"146.9"
+"1823";"2020";"53";" 25-29";"447";"155.7"
+"1826";"2020";"53";" 30-39";"834";"128.1"
+"1829";"2020";"53";" 40-49";"709";"146.4"
+"1832";"2020";"53";" 50-59";"752";"138.4"
+"1835";"2020";"53";" 60-69";"503";"126.5"
+"1838";"2020";"53";" 70-79";"404";"126.9"
+"1841";"2020";"53";" 80-89";"517";"280.3"
+"1844";"2020";"53";" 90+";"234";"750.9"
+"1847";"2020";"53";" unbekannt";"22";"0"
+"1850";"2021";"1";" 0-4";"94";"49.5"
+"1853";"2021";"1";" 5-9";"101";"58.8"
+"1856";"2021";"1";" 10-14";"156";"99.7"
+"1859";"2021";"1";" 15-19";"255";"170.2"
+"1862";"2021";"1";" 20-24";"442";"216.4"
+"1865";"2021";"1";" 25-29";"607";"211.4"
+"1868";"2021";"1";" 30-39";"1242";"190.7"
+"1871";"2021";"1";" 40-49";"886";"183"
+"1874";"2021";"1";" 50-59";"1132";"208.4"
+"1877";"2021";"1";" 60-69";"713";"179.3"
+"1880";"2021";"1";" 70-79";"560";"175.9"
+"1883";"2021";"1";" 80-89";"692";"375.2"
+"1886";"2021";"1";" 90+";"272";"872.8"
+"1889";"2021";"1";" unbekannt";"39";"0"
+"1892";"2021";"2";" 0-4";"70";"36.9"
+"1895";"2021";"2";" 5-9";"107";"62.3"
+"1898";"2021";"2";" 10-14";"124";"79.2"
+"1901";"2021";"2";" 15-19";"236";"157.5"
+"1904";"2021";"2";" 20-24";"388";"189.9"
+"1907";"2021";"2";" 25-29";"548";"190.8"
+"1910";"2021";"2";" 30-39";"1046";"160.6"
+"1913";"2021";"2";" 40-49";"778";"160.7"
+"1916";"2021";"2";" 50-59";"932";"171.5"
+"1919";"2021";"2";" 60-69";"559";"140.6"
+"1922";"2021";"2";" 70-79";"448";"140.8"
+"1925";"2021";"2";" 80-89";"626";"339.4"
+"1928";"2021";"2";" 90+";"264";"847.1"
+"1931";"2021";"2";" unbekannt";"23";"0"
+"1934";"2021";"3";" 0-4";"65";"34.3"
+"1937";"2021";"3";" 5-9";"76";"44.3"
+"1940";"2021";"3";" 10-14";"108";"69"
+"1943";"2021";"3";" 15-19";"127";"84.8"
+"1946";"2021";"3";" 20-24";"262";"128.3"
+"1949";"2021";"3";" 25-29";"295";"102.7"
+"1952";"2021";"3";" 30-39";"716";"110"
+"1955";"2021";"3";" 40-49";"556";"114.8"
+"1958";"2021";"3";" 50-59";"664";"122.2"
+"1961";"2021";"3";" 60-69";"363";"91.3"
+"1964";"2021";"3";" 70-79";"307";"96.5"
+"1967";"2021";"3";" 80-89";"385";"208.7"
+"1970";"2021";"3";" 90+";"161";"516.6"
+"1973";"2021";"3";" unbekannt";"11";"0"
+"1976";"2021";"4";" 0-4";"71";"37.4"
+"1979";"2021";"4";" 5-9";"63";"36.7"
+"1982";"2021";"4";" 10-14";"83";"53"
+"1985";"2021";"4";" 15-19";"119";"79.4"
+"1988";"2021";"4";" 20-24";"189";"92.5"
+"1991";"2021";"4";" 25-29";"268";"93.3"
+"1994";"2021";"4";" 30-39";"561";"86.2"
+"1997";"2021";"4";" 40-49";"395";"81.6"
+"2000";"2021";"4";" 50-59";"499";"91.8"
+"2003";"2021";"4";" 60-69";"315";"79.2"
+"2006";"2021";"4";" 70-79";"252";"79.2"
+"2009";"2021";"4";" 80-89";"286";"155"
+"2012";"2021";"4";" 90+";"100";"320.9"
+"2015";"2021";"4";" unbekannt";"5";"0"
+"2018";"2021";"5";" 0-4";"54";"28.5"
+"2021";"2021";"5";" 5-9";"50";"29.1"
+"2024";"2021";"5";" 10-14";"64";"40.9"
+"2027";"2021";"5";" 15-19";"92";"61.4"
+"2030";"2021";"5";" 20-24";"190";"93"
+"2033";"2021";"5";" 25-29";"212";"73.8"
+"2036";"2021";"5";" 30-39";"456";"70"
+"2039";"2021";"5";" 40-49";"371";"76.6"
+"2042";"2021";"5";" 50-59";"401";"73.8"
+"2045";"2021";"5";" 60-69";"245";"61.6"
+"2048";"2021";"5";" 70-79";"230";"72.3"
+"2051";"2021";"5";" 80-89";"267";"144.7"
+"2054";"2021";"5";" 90+";"76";"243.9"
+"2057";"2021";"5";" unbekannt";"8";"0"
