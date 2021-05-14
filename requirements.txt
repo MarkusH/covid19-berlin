@@ -11,7 +11,7 @@ dateparser==1.0.0
 h11==0.12.0
 httpcore==0.13.3
 httpx==0.18.1
-hupper==1.10.2
+hupper==1.10.3
 idna==3.1
 itsdangerous==2.0.0
 janus==0.6.1
