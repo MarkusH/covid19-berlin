@@ -6,15 +6,15 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
-            <link rel="stylesheet" href="//www.berlin.de/i9f/r1/bundle/default.css?1622668200" media="all">
+            <link rel="stylesheet" href="//www.berlin.de/i9f/r1/bundle/default.css?1622754000" media="all">
     <script src="//www.berlin.de/i9f/r1/bundle/jquery.min.js" crossorigin="anonymous"></script>
-    <script src="//www.berlin.de/i9f/r1/bundle/default.js?1622668200" id="bo-behavior-js"></script>
+    <script src="//www.berlin.de/i9f/r1/bundle/default.js?1622754000" id="bo-behavior-js"></script>
     
-        <link rel="stylesheet" type="text/css" href="//www.berlin.de/i9f/v4/css/vendor.css?ts=1622657025"/>
+        <link rel="stylesheet" type="text/css" href="//www.berlin.de/i9f/v4/css/vendor.css?ts=1622669304"/>
     
 <!-- theme switch begin -->
-    <link rel="stylesheet" type="text/css" href="//www.berlin.de/i9f/v4/css/bde-bootstrap.css?ts=1622657025"/>
-    <link rel="stylesheet" type="text/css" href="//www.berlin.de/i9f/v4/css/bde-index.css?ts=1622657025"/>
+    <link rel="stylesheet" type="text/css" href="//www.berlin.de/i9f/v4/css/bde-bootstrap.css?ts=1622669304"/>
+    <link rel="stylesheet" type="text/css" href="//www.berlin.de/i9f/v4/css/bde-index.css?ts=1622669304"/>
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"/>
     <link rel="apple-touch-icon" sizes="180x180" href="//www.berlin.de/i9f/v4/css/images/misc/apple-touch-icon.png" type="image/png"/>
 <!-- theme switch end -->
@@ -22,8 +22,8 @@
         <!-- "property" validiert nicht, nimm "name" -->
             <meta name="og:image" content="http://www.berlin.de/i9f/images/facebook_default_icon_land.png" />
     <meta name="og:image:secure_url" content="https://www.berlin.de/i9f/images/facebook_default_icon_land.png" />
-                <script src="//www.berlin.de/i9f/v4/js/bo-head.js?ts=1622657025"></script>
-        <script src="//www.berlin.de/i9f/v4/js/bo-info.js?ts=1622657025"></script>
+                <script src="//www.berlin.de/i9f/v4/js/bo-head.js?ts=1622669304"></script>
+        <script src="//www.berlin.de/i9f/v4/js/bo-info.js?ts=1622669304"></script>
     
 
 
@@ -446,7 +446,7 @@ jQuery('#feed-form-kommentar').on('click', function(f) { var i = $('input[name='
 </div>
 <!-- END: PAGEWRAPPER #page-wrapper -->
 
-<script src="//www.berlin.de/i9f/v4/js/bo-foot.js?ts=1622657025"></script>
+<script src="//www.berlin.de/i9f/v4/js/bo-foot.js?ts=1622669304"></script>
 
 <!-- Zaehlpixel -->
     
