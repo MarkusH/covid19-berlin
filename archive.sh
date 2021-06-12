@@ -1,8 +1,5 @@
 #!/bin/bash
 
-set -e
-set -o pipefail
-
 git config user.name github-actions
 git config user.email github-actions@github.com
 
