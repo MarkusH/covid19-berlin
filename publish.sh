@@ -1,5 +1,8 @@
 #!/bin/bash
 
+set -e
+set -o pipefail
+
 datasette publish heroku \
     --title "COVID-19 cases in Berlin, Germany" \
     --name covid19-berlin \
