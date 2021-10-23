@@ -34,5 +34,5 @@ regex==2021.4.4
 rfc3986==1.5.0
 six==1.16.0
 sniffio==1.2.0
-tzlocal==2.1
+tzlocal==4.0.1
 uvicorn==0.14.0
