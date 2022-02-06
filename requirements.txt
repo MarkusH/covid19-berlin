@@ -8,7 +8,7 @@ csvs-to-sqlite==1.2
 datasette==0.60.1
 datasette-vega==0.6.2
 dateparser==1.1.0
-h11==0.13.0
+h11==0.12.0
 httpcore==0.14.7
 httpx==0.20.0
 hupper==1.10.3
