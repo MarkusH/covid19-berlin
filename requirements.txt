@@ -21,7 +21,7 @@ mergedeep==1.3.4
 numpy==1.21.3
 packaging==21.0
 pandas==1.3.4
-Pint==0.17
+Pint==0.18
 pluggy==1.0.0
 py-lru-cache==0.1.4
 pyparsing==2.4.7
