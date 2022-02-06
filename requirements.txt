@@ -1,6 +1,6 @@
 aiofiles==0.7.0
 asgi-csrf==0.9
-asgiref==3.5.0
+asgiref==3.4.1
 certifi==2021.10.8
 click==7.1.2
 click-default-group==1.2.2
