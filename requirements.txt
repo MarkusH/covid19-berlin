@@ -2,7 +2,7 @@ aiofiles==0.7.0
 asgi-csrf==0.9
 asgiref==3.4.1
 certifi==2021.10.8
-click==7.1.2
+click==8.0.4
 click-default-group==1.2.2
 csvs-to-sqlite==1.2
 datasette==0.60.1
