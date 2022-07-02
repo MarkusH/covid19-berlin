@@ -38,7 +38,7 @@ jobs:
         run: ./convert.sh
       - name: Archive data
         run: ./archive.sh
-      - name: Publish
-        run: ./publish.sh
-        env:
-          HEROKU_API_KEY: ${{ secrets.HEROKU_API_KEY }}
+      # - name: Publish
+      #   run: ./publish.sh
+      #   env:
+      #     HEROKU_API_KEY: ${{ secrets.HEROKU_API_KEY }}
