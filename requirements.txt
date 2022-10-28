@@ -5,7 +5,7 @@ certifi==2021.10.8
 click==7.1.2
 click-default-group==1.2.2
 csvs-to-sqlite==1.2
-datasette==0.60.1
+datasette==0.63
 datasette-vega==0.6.2
 dateparser==1.1.0
 h11==0.12.0
